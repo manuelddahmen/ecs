@@ -1,0 +1,19 @@
+scene 
+(
+
+
+simpleSphereAvecTexture(
+	( 0.0 , 0.0 , 0.0 ) 
+	3.0 
+	"texture5-150x150.png"
+)
+cameras (
+	
+	camera (
+	( 0.0 , 0.0 , -4.0 ) 
+	( 0.0 , 0.0 , 0.0 ) 
+	)
+
+)
+
+)
